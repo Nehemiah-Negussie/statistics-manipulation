@@ -1,3 +1,3 @@
 # statistics-manipulation
 
-Manipulating statistics to create new graphs, with similar stats.
+Manipulating statistics to create new graphs, with similar stats. (WIP)
